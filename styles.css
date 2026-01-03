@@ -1,0 +1,15 @@
+.blog{
+    background-color: lightpink;
+}
+h2{
+    text-decoration: underline ;
+}
+#secondblog{
+    background-color: lightblue;
+    /* visibility: hidden; */
+   
+}
+#minima{
+    font-size: 20px;
+   color:red;
+}
